@@ -1,0 +1,210 @@
+<!doctype html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="pt-BR"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="pt-BR" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="pt-BR" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="pt-BR" class="no-js ie8 oldie"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html dir="ltr" lang="pt-BR" class="no-js">
+<!--<![endif]-->
+<head>
+<!-- 30/03/2016 -->
+<!-- meta tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta name="title" content="Col&eacute;gio Prevest - do 6&ordm; ano ao preparat&oacute;rio ENEM"/>
+<meta name="author" content="GO!Sites - Soluções Online - (62) 3941-7878 gosites@gosites.com.br">
+<meta name="copyright" content="® 2016" />
+<meta name="keywords" content="" />
+<meta name="distribution" content="global">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Col&eacute;gio Prevest - do 6&ordm; ano ao preparat&oacute;rio ENEM</title>
+<!-- TemplateEndEditable -->
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="../favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="../favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="../favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="../favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="../favicon/manifest.json">
+<link rel="mask-icon" href="../favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="../favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="../favicon/mstile-144x144.png">
+<meta name="msapplication-config" content="../favicon/browserconfig.xml">
+<meta name="theme-color" content="#003360">
+<!-- css -->
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="../css/layout.css" rel="stylesheet" type="text/css" />
+<!-- facebook -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "http://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.5";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- classe da pagina -->
+<!-- TemplateBeginEditable name="classe-da-pagina" -->
+<div class="">
+<!-- TemplateEndEditable -->
+  <!-- TemplateBeginEditable name="header" -->
+  
+  <!-- TemplateEndEditable -->
+  <header id="topo">
+    <div class="topo">
+      <!-- logo -->
+      <section id="logo"><a href="../principal.html"><img src="../img/logo.png" class="logo" alt="Ir para p&aacute;gina inicial"></a></section>
+      <!-- links topo -->
+      <section class="links-telefones">
+        <a href="../principal.html" class="link-home hvr-wobble-vertical" title="Ir para p&aacute;gina inicial"><img src="../img/icone-home.svg" class="icone-home">Home</a>
+        <a href="../fale.html" class="link-fale hvr-wobble-vertical" title="Fale Conosco"><img src="../img/icone-faleconosco.svg" class="icone-fale">Fale Conosco</a>
+        <div class="links-telefones-divisao"></div>
+        <div class="unidade telefone-1">
+          <span>Unidade Centro</span>
+          <img src="../img/icone-telefone-1.svg" class="icone-telefone-1">62 <strong>3209-7240</strong>
+        </div>
+        <div class="unidade telefone-2">
+          <span>Unidade Sul</span>
+          <img src="../img/icone-telefone-1.svg" class="icone-telefone-1">62 <strong>3209-7300</strong>
+        </div>
+      </section>
+    </div>
+    <!-- navegacao menu -->
+    <nav class="navegacao" id="navegacao">
+      <ul>
+        <li><a href="../institucional.html" target="_self" class="menu-institucional">Institucional</a></li>
+        <li><a href="../segmentos.html" target="_self" class="menu-segmentos">Segmentos</a></li>
+        <li><a href="../projetos.html" target="_self" class="menu-projetos">Projetos</a></li>
+        <li><a href="../noticias.html" target="_self" class="menu-noticias">Not&iacute;cias</a></li>
+        <li><a href="../fotos.html" target="_self" class="menu-fotos">Galeria de Fotos</a></li>
+        <li><a href="../blog.html" target="_self" class="menu-blog">Blog dos Professores</a></li>
+        <li><a href="../portal-do-aluno.html" target="_self" class="menu-portal">Portal do Aluno</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- /.topo -->
+  <!-- navegacao max. 767px -->
+  <div class="mobile">
+    <header class="mobile-topo">
+      <!-- logo -->
+      <section id="logo-mobile"><a href="../principal.html" target="_self"><img src="../img/logo-mob.png" class="logo-mobile" alt="Ir para p&aacute;gina inicial"></a></section>
+      <!-- menu icone -->
+      <nav id="nav-mobile"> <a href="javascript:void(0)" data-toggle="modal" data-target="#nav-mob"><img src="../img/mob-menu.svg" class="nav-mobile" alt="Menu"></a> </nav>
+    </header>
+      <!-- menu mobile -->
+      <div class="modal fade menu-mobile fade-menu-mobile" id="nav-mob" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog menu-mobile-dialog">
+          <div class="modal-content menu-mobile-content">
+            <div class="modal-header menu-mobile-header"><a href="javascript:void(0)" class="fechar"><img src="../img/fechar.svg" alt="Fechar Menu" data-dismiss="modal" aria-hidden="true"></a></div>
+            <nav class="modal-body menu-mobile-body">
+              <!-- conteudos menu aqui -->
+              <ul class="menu-movel">
+                <li><a href="../institucional.html" target="_self" class="menu-institucional">Institucional</a></li>
+                <li><a href="../segmentos.html" target="_self" class="menu-segmentos">Segmentos</a></li>
+                <li><a href="../projetos.html" target="_self" class="menu-projetos">Projetos</a></li>
+                <li><a href="../noticias.html" target="_self" class="menu-noticias">Not&iacute;cias</a></li>
+                <li><a href="../fotos.html" target="_self" class="menu-fotos">Galeria de Fotos</a></li>
+                <li><a href="../blog.html" target="_self" class="menu-blog">Blog dos Professores</a></li>
+                <li><a href="../portal-do-aluno.html" target="_self" class="menu-portal">Portal do Aluno</a></li>
+                <li><a href="../fale.html" target="_self" class="menu-fale">Fale Conosco</a></li>
+              </ul>
+            </nav>
+            <div class="modal-footer menu-mobile-footer"></div>
+          </div>
+        </div>
+      </div>
+      <!-- /nav-mob -->
+  </div>
+  <!-- /.mobile -->
+  <main class="clearfix wrap">
+    <section class="titulos-e-banners">
+      <div id="titulos" class="clearfix">
+        <div class="titulos-fx-1"></div><div class="titulos-fx-2"></div><div class="titulos-fx-3"></div><div class="titulos-fx-4"></div>
+        <hgroup class="titulos"><!-- TemplateBeginEditable name="titulos" --><h1></h1><!-- TemplateEndEditable --></hgroup>
+      </div>
+      <!-- /.titulos -->
+      <div class="clearfix"></div>
+      <!-- TemplateBeginEditable name="banners" -->
+      <!-- TemplateEndEditable -->
+    </section>
+    <section class="corpo clearfix">
+      <div class="conteudos">
+        <!-- TemplateBeginEditable name="conteudos" -->
+        <article>
+        </article>
+        <!-- TemplateEndEditable -->
+      </div>
+      <!-- /.conteudos -->
+    </section>
+    <section class="conteudos-nav-container"><div class="conteudos-nav"><a href="javascript:history.back(-1)" title="Voltar &agrave; p&aacute;gina anterior" class="hvr-wobble-horizontal"><img src="../img/botao-voltar.svg" class="botao-voltar"></a></div></section>
+    <!-- /conteudos-nav-->
+  </main>
+  <!-- rodape-->
+  <footer id="rodape">
+    <section class="rodape redes-sociais-container">
+      <div class="instagram-container">
+        <img src="../img/logo-instagram.png" class="instagram-logo" alt="Col&eacute;gio Prevest no Instagram">
+        <iframe src="http://widget.websta.me/in/colegioprevest/?r=1&w=5&h=1&b=1&p=5" allowtransparency="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" ></iframe>
+      </div>
+      <div class="facebook-container">
+        Acompanhe-nos pelo Facebook:
+        <div class="fb-page" data-href="https://www.facebook.com/Prevest.Goias" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Prevest.Goias"><a href="https://www.facebook.com/Prevest.Goias">Colégio Prevest</a></blockquote></div></div>
+      </div>
+    </section>
+    <section class="rodape enderecos">
+      <div class="endereco">
+        <a href="https://goo.gl/maps/HeCEr6BzUDx" target="_blank" class="endereco-txt"><strong>Unidade Centro</strong><br>
+        Rua 5, 2002 - Setor Central<br>
+        Goi&acirc;nia - GO
+        </a>
+        <div class="endereco-contatos">
+          <a href="mailto:contato@prevest.com.br" title="E-mail"><img src="../img/icone-email.svg" class="endereco-icone-email">contato@prevest.com.br</a>
+          <a href="tel:+556232097240" title="Unidade Centro"><img src="../img/icone-telefone-2.svg" class="endereco-icone-telefone"> 62 3209-7240</a>
+        </div>
+      </div>
+      <div class="endereco">
+        <a href="https://goo.gl/maps/k4bFHq1fzAo" target="_blank" class="endereco-txt"><strong>Unidade Sul</strong><br>
+        Av. T-13 - Setor Bela Vista<br>
+        Goi&acirc;nia - GO
+        </a>
+        <div class="endereco-contatos">
+          <a href="mailto:contato@prevest.com.br" title="E-mail"><img src="../img/icone-email.svg" class="endereco-icone-email">contato@prevest.com.br</a>
+          <a href="tel:+556232097300" title="Unidade Sul"><img src="../img/icone-telefone-2.svg" class="endereco-icone-telefone"> 62 3209-7300</a>
+        </div>
+      </div>
+    </section>
+    <section class="rodape logo-redes-sociais">
+      <a href="../principal.html" class="rodape-logo"><img src="../img/logo.png" class="rodape-logo-img"></a>
+      <div class="redes-sociais">
+        visite nossas redes<br>
+        <a href="https://www.facebook.com/Prevest.Goias" class="rede facebook" target="_blank" title="Col&eacute;gio Prevest no Facebook"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/CPrevest" class="rede twitter" target="_blank" title="Col&eacute;gio Prevest no Twitter"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.facebook.com/Prevest.Goias" class="rede youtube" target="_blank" title="Col&eacute;gio Prevest no YouTube"><i class="fa fa-youtube"></i></a>
+      </div>
+    </section>
+  </footer>
+  <!-- /rodape -->
+  <!-- TemplateBeginEditable name="footer" -->
+  
+  <!-- TemplateEndEditable -->
+</div>
+<!-- scripts --> 
+<script src="../js/jquery-1.11.2.min.js"></script>
+<!-- js bootstrap -->
+<script src="../js/bootstrap.js"></script>
+</body>
+</html>
